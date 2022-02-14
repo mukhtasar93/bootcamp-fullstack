@@ -1,0 +1,14 @@
+table {
+	width: 300px;
+	background-color: azure;
+	text-align: center;
+}
+
+table tr {
+	background-color: blanchedalmond;
+}
+
+table tr th {
+	color: blue;
+	background-color: aquamarine;
+}
